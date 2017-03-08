@@ -1,3 +1,9 @@
+# NOTICE
+
+We're now supporting this project on our group's repository:
+
+https://github.com/pnnl/fqc
+
 [![DOI](https://zenodo.org/badge/63971118.svg)](https://zenodo.org/badge/latestdoi/63971118)
 
 # Contents:
